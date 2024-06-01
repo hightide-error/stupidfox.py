@@ -9,3 +9,6 @@ I saw [stupidfox.exe](https://github.com/TheTimgor/stupidfox.exe "stupidfox.exe"
 
 ## why is it bad
 because I've barely used tkinter before and was just adapting [a desktop pet tutorial I found.](https://medium.com/analytics-vidhya/create-your-own-desktop-pet-with-python-5b369be18868) Also, tkinter doesn't support transparency for individual elements on linux, just for the overall window, which is why tsukasa is a ghost now. who drags around a grey box with her. which also contains the explosion
+
+## how do I use it
+download everything to the same directory and run the python script. if it doesn't work then I assume you know enough to debug it. this is a silly touhou joke I'm not supporting it whatsoever
